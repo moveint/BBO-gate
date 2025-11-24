@@ -1,0 +1,13 @@
+{
+        "Region_Info": [
+                {
+                        "ServiceType": "QA",
+                        "Region": "azure-region-asia",
+                        "RegionName": "ASIA",
+                        "LoginAddr": "https://bbokrda.gameking.com:6798",
+                        "PingAddr": "20.41.122.114",
+                        "Status": "on,0,0"
+                }
+
+        ]
+}
