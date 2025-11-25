@@ -3,7 +3,7 @@
                 {
                         "ServiceType": "DEV",
                         "Region": "moveint-dev-bbo",
-                        "RegionName": "KOREA",
+                        "RegionName": "BBO DEV",
                         "LoginAddr": "http://login.bb:6798",
                         "PingAddr": "10.10.10.150",
                         "Status": "on,0,0"
