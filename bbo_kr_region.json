@@ -7,38 +7,6 @@
                         "LoginAddr": "https://login.bb:6798",
                         "PingAddr": "10.10.10.150",
                         "Status": "on,0,0"
-                },
-                {
-                        "ServiceType": "ALPHA",
-                        "Region": "azure-region-korea",
-                        "RegionName": "KOREA",
-                        "LoginAddr": "https://bbokraa.gameking.com:6798",
-                        "PingAddr": "20.249.152.200",
-                        "Status": "on,0,0"
-                },
-                {
-                        "ServiceType": "BETA",
-                        "Region": "azure-region-korea",
-                        "RegionName": "KOREA",
-                        "LoginAddr": "https://bbokrba.gameking.com:6798",
-                        "PingAddr": "127.0.0.1",
-                        "Status": "on,0,0"
-                },
-                {
-                        "ServiceType": "LIVE",
-                        "Region": "azure-region-korea",
-                        "RegionName": "KOREA",
-                        "LoginAddr": "https://bbokrla.gameking.com:6798",
-                        "PingAddr": "127.0.0.1",
-                        "Status": "on,0,0"
-                },
-                {
-                        "ServiceType": "DEMO",
-                        "Region": "azure-region-asia",
-                        "RegionName": "WORLD",
-                        "LoginAddr": "https://bbokrda.gameking.com:6798",
-                        "PingAddr": "127.0.0.1",
-                        "Status": "on,0,0"
                 }
         ]
 }
