@@ -1,7 +1,7 @@
 {
         "Region_Info": [
                 {
-                        "ServiceType": "ALPHA",
+                        "ServiceType": "BETA",
                         "Region": "azure-region-korea",
                         "RegionName": "KOREA-BETA",
                         "LoginAddr": "https://bbokrba.gameking.com:6798",
