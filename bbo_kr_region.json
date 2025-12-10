@@ -3,7 +3,7 @@
                 {
                         "ServiceType": "ALPHA",
                         "Region": "azure-region-korea",
-                        "RegionName": "KOREA-ALPHA",
+                        "RegionName": "REGION-ALPHA",
                         "LoginAddr": "https://bbokraa.gameking.com:6798",
                         "PingAddr": "20.249.152.200",
                         "Status": "on,0,0"
